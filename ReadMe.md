@@ -1,5 +1,5 @@
 # BTK TensorFlow
-
+- [Project Development Will Continue Soon](#project-development)
 - [Introduction](#introduction)
 - [How To Run](#how-to-run)
 
@@ -36,3 +36,5 @@
         ```shell
         python 1_Basics/basics.py
         ```
+## Project Development
+- I decided to learn Machine Learning And Deep Learning Algorithms first. In my opinion there is no meaning using functions and not knowing what is going on in background.
